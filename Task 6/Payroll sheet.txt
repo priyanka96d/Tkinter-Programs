@@ -1,0 +1,12 @@
+lastname,hourly wage,hours worked
+Jones,55,41
+Richardson ,67,40
+Kumar,78,25
+Moore,56,15
+Stoll,65,30
+James,80,36
+Charles,55,35
+Bond,70,15
+Patel,65,42
+Berry,50,30
+Galler,68,45
